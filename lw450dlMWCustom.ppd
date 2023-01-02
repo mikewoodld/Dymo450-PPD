@@ -1,11 +1,11 @@
 *PPD-Adobe: "4.3"
 
 *% $Id: lw450dl.ppd 18293 2012-05-28 16:46:08Z aleksandr $
+*% Edited 2023-01-01 by Mike Wood (mikewoodld.com) to allow custom sizes up to 300' in length. 
+
 
 *% DYMO LabelWriter Drivers
 *% Copyright (C) 2008 Sanford L.P.
-
-*% Edited 1 Jan 2023 by Mike Wood (mikewoodld.com) to allow custom sizes up to 300' in length. 
 
 *% This program is free software; you can redistribute it and/or
 *% modify it under the terms of the GNU General Public License
